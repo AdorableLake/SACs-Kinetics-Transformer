@@ -35,14 +35,14 @@
 针对多源异构文献数据的自动化 ETL（抽取、转换、加载）与时空对齐流程。
 
 <div align="center">
-  <img src="assets/data_pipeline.png" width="80%" alt="Data Pipeline">
+  <img src="assets/data_pipeline_define.png" width="80%" alt="Data Pipeline">
 </div>
 
 ### 2. 模型网络架构
 基于自注意力机制 (`Self-Attention`) 定制的 `Transformer` 编码器-解码器（`Encoder-Decoder`）结构。
 
 <div align="center">
-  <img src="assets/model_architecture.png" width="60%" alt="Model Architecture">
+  <img src="assets/model_architecture_define.png" width="80%" alt="Model Architecture">
 </div>
 
 ---

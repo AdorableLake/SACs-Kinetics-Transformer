@@ -30,14 +30,14 @@
 Automated ETL process for multi-source heterogeneous data alignment.
 
 <div align="center">
-  <img src="assets/data_pipeline.png" width="80%" alt="Data Pipeline">
+  <img src="assets/data_pipeline_define.png" width="80%" alt="Data Pipeline">
 </div>
 
 ### 2. Model Architecture
 A customized Transformer with Self-Attention mechanisms.
 
 <div align="center">
-  <img src="assets/model_architecture.png" width="60%" alt="Model Architecture">
+  <img src="assets/model_architecture_define.png" width="80%" alt="Model Architecture">
 </div>
 
 ---
