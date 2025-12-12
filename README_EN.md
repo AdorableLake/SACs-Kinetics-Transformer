@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🧪 AI-Driven Kinetics Prediction System for Single-Atom Catalysts (SACs)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -5,7 +7,13 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+<!-- 语言切换按钮 -->
+[![English](https://img.shields.io/badge/Language-English-blue)](README_EN.md)
+[![Chinese](https://img.shields.io/badge/Language-中文-gray)](README.md)
+
 > **A Deep Learning framework integrating Transformer architecture with physics-informed constraints to predict the full-process degradation kinetics of organic pollutants by Single-Atom Catalysts (SACs).**
+
+</div>
 
 ---
 
@@ -20,11 +28,19 @@
 
 ### 1. Data Pipeline
 Automated ETL process for multi-source heterogeneous data alignment.
-![System Architecture](assets/data_pipeline.png)
+
+<div align="center">
+  <img src="assets/data_pipeline.png" width="80%" alt="Data Pipeline">
+</div>
 
 ### 2. Model Architecture
 A customized Transformer with Self-Attention mechanisms.
-![System Architecture](assets/model_architecture.png)
+
+<div align="center">
+  <img src="assets/model_architecture.png" width="60%" alt="Model Architecture">
+</div>
+
+---
 
 ## 🚀 Quick Start
 
@@ -51,19 +67,22 @@ streamlit run app_real.py
 
 ## 📷 Screenshots
 - Interactive Dashboard
-![System Architecture](assets/interactive_dashboard.png)
+<div align="center">
+<img src="assets/interactive_dashboard.png" width="100%" alt="Dashboard">
+</div>
 
 - Prediction Results (Best vs Worst Case)
-![System Architecture](assets/result_v3.6_best_20251208_164608.png)
-![System Architecture](assets/result_v3.6_worst_20251208_164608.png)
-
+<div align="center">
+<img src="assets/result_v3.6_best_20251208_164608.png" width="48%" alt="Best Case">
+<img src="assets/result_v3.6_worst_20251208_164608.png" width="48%" alt="Worst Case">
+</div>
 ---
 
 ## 👨‍💻 Author
 Lake (AdorableLake)
-- 🎓 M.S. in Environmental Engineering | Tianjin University & Georgia Tech
-- 🎓 B.S. in Industrial Design | Zhejiang Sci-Tech University
-- 🔬 Research Focus: AI for Science, HCI.
+- 🎓 M.S. Environmental Engineering |  Georgia Tech & Tianjin Univ.
+- 🎓 B.S. Industrial Design | Zhejiang Sci-Tech Univ.
+- 🔬 Research Focus: AI for Science, Environmental Informatics, Human Computer Interactiion.
 
 ---
 
