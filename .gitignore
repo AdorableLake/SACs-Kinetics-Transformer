@@ -1,0 +1,14 @@
+# Mac 系统垃圾
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境 (如果有)
+venv/
+.env
+
+# 敏感数据/大文件
+
+data/raw/*.csv
