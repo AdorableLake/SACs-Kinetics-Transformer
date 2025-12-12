@@ -75,6 +75,7 @@ streamlit run app.py
 <div align="center">
 <img src="assets/interactive_dashboard.png" width="100%" alt="Dashboard">
 </div>
+
 - 预测结果对比 (最佳 vs 最差样本)
 <div align="center">
 <img src="assets/result_v3.6_best_20251208_164608.png" width="48%" alt="Best Case">
